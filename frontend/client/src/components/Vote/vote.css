@@ -1,0 +1,36 @@
+/* * {
+    margin: 0;
+    padding: 0;
+    background-color: #edeef6;
+} */
+.div1 {
+    width: 60%;
+    height: 500px;
+    background-color: white;
+    box-shadow: 2px 2px 2px 2px grey;
+    margin: auto;
+    margin-top: 100px;
+    text-align: center;
+}
+
+.candidate {
+    position: relative;
+    width: 20%;
+    height: 240px;
+    background-color: green;
+    margin: 10px;
+    float: left;
+}
+
+.buttdes {
+   margin-left: 2px; 
+    position: relative;
+    align-content: center;
+    margin-top: 180px;
+}
+
+.pos {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 80px;
+}
